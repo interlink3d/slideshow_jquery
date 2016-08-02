@@ -1,0 +1,28 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+  display: none;
+}
+
+.active {
+  display: inline;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
